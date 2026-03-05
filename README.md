@@ -21,6 +21,6 @@ Q-ALIGN 提出了一种改进大型多模态模型（LMM）在视觉评分任务
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/97991445-5c1e-4b05-9fd9-f002a8bb5d42" />
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/cc29577b-b375-4434-a281-00d5390b8bb0" />
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/cc29577b-b375-4434-a281-00d5390b8bb0" />
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2b27fb31-65b1-45d7-bc61-405fb137d126" />
