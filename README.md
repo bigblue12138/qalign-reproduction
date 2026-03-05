@@ -17,10 +17,10 @@ Q-ALIGN 提出了一种改进大型多模态模型（LMM）在视觉评分任务
 - **分值计算**：提取 LMM 对各等级词汇的概率分布（Logits），通过加权平均还原为定量分数。 
 
 ## 4. 复现结果
-<img width="911" height="692" alt="image" src="https://github.com/user-attachments/assets/516d3974-48fd-40be-bd94-82b33d784be6" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/516d3974-48fd-40be-bd94-82b33d784be6" />
 
-<img width="790" height="530" alt="image" src="https://github.com/user-attachments/assets/97991445-5c1e-4b05-9fd9-f002a8bb5d42" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/97991445-5c1e-4b05-9fd9-f002a8bb5d42" />
 
-<img width="578" height="678" alt="image" src="https://github.com/user-attachments/assets/cc29577b-b375-4434-a281-00d5390b8bb0" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/cc29577b-b375-4434-a281-00d5390b8bb0" />
 
-<img width="896" height="611" alt="image" src="https://github.com/user-attachments/assets/2b27fb31-65b1-45d7-bc61-405fb137d126" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2b27fb31-65b1-45d7-bc61-405fb137d126" />
